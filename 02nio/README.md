@@ -1,0 +1,2 @@
+1. HTTP客户端：[点这里](https://github.com/imhu/java_dayday_up/blob/main/02nio/src/main/java/http/client/OkHttpServerClient.java)
+2. 对于不同GC和堆内存的总结：[点这里](https://github.com/imhu/java_dayday_up/blob/main/02nio/%E4%B8%8D%E5%90%8CGC%E5%92%8C%E5%A0%86%E5%86%85%E5%AD%98%E7%9A%84%E6%80%BB%E7%BB%93.md)
